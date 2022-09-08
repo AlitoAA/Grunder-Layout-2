@@ -1,0 +1,58 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-position: center;
+    background-color: hsl(160, 30%, 60%);
+
+
+}
+
+header {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.2rem;
+    width: 1000px;
+}
+
+h2 {
+    color: rgb(18, 18, 18);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 300px;
+    padding-top: 10px;
+}
+
+article,
+footer {
+    background-color: lightskyblue;
+
+}
+
+article {
+    padding: 0 10px;
+    border: 20px;
+    border-radius: 20px;
+
+
+}
+
+footer {
+    margin-block-start: 15px;
+    font-size: 15px;
+    border-radius: 10px;
+    text-align: center;
+
+}
+
+
+p {
+    color: black;
+    width: 400px;
+
+}
+
+main {
+    display: flex;
+    gap: 8px;
+
+
+
+}
